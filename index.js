@@ -1,4 +1,6 @@
-const api = "AIzaSyA_wyKg2LZZXV5KLv2f57KBJGbHWclqEeE";
+//YYoutube XMLHttpRequest search 
+
+const api = "YOUR API KEY HERE";
 const output = document.querySelector(".output");
 const searchTerm = document.querySelector("input");
 const btn = document.querySelector("button");
